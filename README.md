@@ -13,8 +13,10 @@ And to further enable the credentialed scan, I went into the registery editor an
 
 Now lets see what the credentialed scan tells us
 <img width="946" alt="creds scan" src="https://github.com/JeffreyMartin2000/Nessus-Lab/assets/129632324/cbc791cf-6781-4640-bc43-769a37128a23">
+
 So this type of scan reveals more by trusting access into many system configurations
 Here is an example of what we can see when we click a specific vulnerability
+
 <img width="819" alt="example of critical vulnerability" src="https://github.com/JeffreyMartin2000/Nessus-Lab/assets/129632324/901e7044-4ee9-446a-a81f-783dccdb2b65">
 This critical vulnerability calls for a simple update of a service. In this case, internet explorer. We can also see what the CVSS score is ont he right. Also on the bottom of the page we are notified of the port number, protocol, and ip address of the machine. 
 This lab taught me how to set up an environment that allowed me to practice using Nessus. I learned what a credentialed and non-credentialed scan displayed. I also learned that Nessus shows the CVSS severity score, and how to remediate a specific vulnerability. 
